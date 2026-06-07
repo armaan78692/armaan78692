@@ -69,9 +69,3 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=armaan78692&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=armaan78692&theme=tokyonight&layout=compact)
-```
